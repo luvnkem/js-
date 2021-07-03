@@ -1,0 +1,21 @@
+body{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+}
+.block{
+    background-color: cyan;
+    height: 500px;
+    width: 500px;
+    text-align: center;
+    color: goldenrod;
+}
+
+form div{
+    margin: 20px;
+
+}
+form div input{
+    width: 70%;
+    height: 70%;
+}
